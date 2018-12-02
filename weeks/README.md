@@ -18,11 +18,12 @@ npm run build
 npm run build --report	
 ```	
 	
+#运行截图：
+
+![image](http://s2.sinaimg.cn/large/006pIGHlzy7pE9y5i5rf1&690)
+![image](http://s9.sinaimg.cn/large/006pIGHlzy7pE9xSMZi58&690)
+![image](http://s12.sinaimg.cn/large/006pIGHlzy7pE9yf9TZbb&690)
+![image](http://s13.sinaimg.cn/large/006pIGHlzy7pE9y1qQA9c&690)
+
 "For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader)."	
-	
-####运行截图：
-##### 下图没有使用js-sdk开发的页面在微信里分享样式
-
-！[image] （http://s2.sinaimg.cn/large/006pIGHlzy7pE9y5i5rf1&690）
-
 "新浪博客：http://blog.sina.com.cn/haddenjacob"	
